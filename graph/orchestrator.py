@@ -31,3 +31,4 @@ def build_graph():
     graph.set_finish_point("analyst")
 
     return graph.compile()
+
